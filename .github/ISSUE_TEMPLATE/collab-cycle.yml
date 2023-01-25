@@ -70,7 +70,7 @@ body:
     id: start-date
     attributes:
       label: When did/will you start working on this product/feature?
-        validations:
+    validations:
       required: true
   - type: markdown
     attributes:
