@@ -25,10 +25,10 @@ body:
   - type: checkboxes
     id: verify-directory
     attributes:
-      label: If your product or feature is already on VA.gov, please verify your information in the Product Directory.
-      description: See the [Product Directory page](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory) on Platform website.
+      label: Verify information about your product or feature in the VFS Product Directory.
+      description: See the [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory) on Platform website.
       options:
-        - label: The product or feature information in the Product Directory is accurate.
+        - label: I have reviewed the VFS Product Directory and either: 1.)confirm that my information is correct or 2.) have taken appropriate actions to update or add my product's information to the directory.
           required: true
   - type: input
     id: product-team
