@@ -26,9 +26,8 @@ body:
     id: verify-directory
     attributes:
       label: Verify information about your product or feature in the VFS Product Directory.
-      description: View the [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory).
       options:
-        - label: I have reviewed the VFS Product Directory and confirm that my information is correct (or that I have taken appropriate actions to update or add my product/feature information).
+        - label: I have reviewed the [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory) and confirm that my information is correct (or that I have taken appropriate actions to update or add my product/feature information).
           required: true
   - type: input
     id: product-team
